@@ -3,7 +3,7 @@
 
 - 🎓 I’m currently studying **Artificial Intelligence**
 
-- 🔭 I’m currently working on an **Autonomous Car**
+- 🔭 I’m currently working on an **Self-Driving Car**
 
 - 🌱 I’m currently learning **Natural Processing Language**
 
